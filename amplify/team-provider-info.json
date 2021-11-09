@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-textcounter-dev-100252-authRole",
+            "UnauthRoleArn": "arn:aws:iam::527951141345:role/amplify-textcounter-dev-100252-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::527951141345:role/amplify-textcounter-dev-100252-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "amplify-textcounter-dev-100252-deployment",
+            "UnauthRoleName": "amplify-textcounter-dev-100252-unauthRole",
+            "StackName": "amplify-textcounter-dev-100252",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:527951141345:stack/amplify-textcounter-dev-100252/c707d890-40f8-11ec-8da4-069471b46201",
+            "AmplifyAppId": "dj90syxgr15ns"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "dj90syxgr15ns",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
